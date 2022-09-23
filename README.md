@@ -9,10 +9,11 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 ---
 
-### 🔗 My Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subin-park46&show_icons=true&theme=tokyonight)
----
-
 ### 🔗 Contact
 <a href="mailto:parksoobin0406@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parksoobin0406@gmail.com"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+---
+
+### 🔗 My Github
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subin-park46&show_icons=true&theme=tokyonight)
+
