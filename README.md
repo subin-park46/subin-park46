@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded%12&color=gradient&text=%20Park%20Soo%20Bin%20&height=1500&fontSize=50&textBg=Flase)
+![header](https://capsule-render.vercel.app/api?type=rounded%12&color=gradient&text=%20Park%20Soo%20Bin%20&height=150&fontSize=50&textBg=Flase)
 ---
 
 ### 🔗 Language Skills
