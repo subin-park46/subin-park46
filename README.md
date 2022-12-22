@@ -3,7 +3,7 @@
 
 ### 🔗 💻
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=black"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
