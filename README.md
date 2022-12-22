@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/></a>
+# <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/></a>
 ---
